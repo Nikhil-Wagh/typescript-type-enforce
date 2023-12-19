@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "class-validator": "^0.14.0",
+    "reflect-metadata": "^0.2.1"
+  }
+}
